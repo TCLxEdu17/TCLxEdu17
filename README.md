@@ -5,7 +5,7 @@
 - 📫 Estou aberto à novas oportunidades e também à sujestões, caso queira entrar em contato: designs.eduardog@gmail.com - (13) 99770-8569 
 - LinkedIn: https://www.linkedin.com/in/luis-eduardo-gon%C3%A7alves-de-macedo-177018226
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-- Caso eu não seja o quê procura, nada que uma boa conversa não me molde ;)
+-  ;)
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 

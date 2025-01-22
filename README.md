@@ -1,16 +1,32 @@
-## Olá, eu sou o Luís Eduardo, estudante de programação Back-end e DevOps!
-- Atualmente, estou em busca da minha primeira vaga na área tecnológica :)
-- Cursando TI pela Univesp, modelo EAD noturno, com previsão de formação em 07/2024.
-- Focado em Back-end e DevOps, com Skills em Java, Springboot, API, Docker, Kubernetes, Kafka, services on AWS, Jenkins, Ansible e metodologias ágeis.
+## Olá, 👋 Sou o Luís Eduardo, desenvolvedor Back-end!
 
-- Possuo fácil aprendizado, gosto de me relacionar com pessoas, ter um foco e um caminho à seguir; acredito que o aprendizado pode revolucionar a vida de todos.
- 
-- 📫 Estou aberto à novas oportunidades e também à sujestões, caso queira entrar em contato: designs.eduardog@gmail.com 
-- (13) 99770-8569 
-- LinkedIn: https://www.linkedin.com/in/luiseduardo193
------------------------------------------------------------------------------------------------------------------------------------------------------
--  Espero ter a oportunidade de demosntrar meus comhecimentos e também adquirir mais ;)
------------------------------------------------------------------------------------------------------------------------------------------------------
+Com **3 anos de experiência** em tecnologias como **Java**, **Go**, **Quarkus**, **AWS** e **Angular**, tenho contribuído para a **transformação digital no setor financeiro**, especialmente em ambientes bancários dinâmicos. 
+
+Estou sempre em busca de novos desafios, aprimorando minhas habilidades técnicas e explorando novas tecnologias para oferecer soluções robustas e eficientes.
+
+---
+
+## 🚀 Principais Habilidades
+- **Desenvolvimento em Java e Go**: Construção de aplicações escaláveis e robustas.
+- **Quarkus**: Desenvolvimento de microsserviços de alta performance.
+- **AWS**: Integração e uso de serviços na nuvem.
+- **Experiência Bancária**: Conhecimento profundo de operações e processos bancários.
+- **Git & GitLab**: Uso avançado para versionamento de código e colaboração.
+- **Kanban**: Gerenciamento ágil de tarefas e projetos.
+- **Métricas de Desempenho**: Otimização de sistemas para máxima eficiência.
+- **Arquitetura de Software**: Desenvolvimento de soluções robustas e de alta qualidade.
+- **Testes Unitários**: Implementação e manutenção para garantir confiabilidade do código.
+- **Comunicação Eficaz**: Experiência de trabalho com o **Banco do Brasil**, alinhando tecnologia às necessidades de negócio.
+
+---
+
+## 🌐 Idiomas
+- **Inglês Intermediário**
+
+---
+
+## 🎯 Objetivo
+Estou comprometido com a **excelência técnica**, sempre pronto para enfrentar desafios complexos e contribuir com **projetos inovadores** que elevem a experiência bancária por meio da te
 
 <div align="center">
   <a href="https://github.com/TCLxEdu17">

@@ -26,4 +26,4 @@ Estou sempre em busca de novos desafios, aprimorando minhas habilidades técnica
 ---
 
 ## 🎯 Objetivo
-Estou comprometido com a **excelência técnica**, sempre pronto para enfrentar desafios complexos e contribuir com **projetos inovadores** que elevem a experiência bancária por meio da te
+Estou comprometido com a **excelência técnica**, sempre pronto para enfrentar desafios complexos e contribuir com **projetos inovadores.**
